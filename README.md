@@ -19,7 +19,7 @@ and stared writing my own programs in Commodore BASIC when I was 8, though none 
 anyone would consider a masterpiece.  I moved on to GW-BASIC, Pascal, C, and x86 Aseembly language
 over the next several years.  Because of this interest, I was occasionally being paid in pizzas to
 write small utilities for a tiny company that I knew the owner of in junior high and highschool.
-I got my first real programming while in college.
+I got my first real programming job while in college.
 
 Which brings me to...
 
