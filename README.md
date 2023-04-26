@@ -103,7 +103,7 @@ wrote in Assembly language and C in my teens.  Most of the keyboard commands fro
 been implemented.  Also, all palette files from the original have been included.  Additional palette
 files can be created by the end-user (as in the original).
 
-[FakeSysKey](https://github.com/carsonfb/FakeSysKey) is a small C# program that immitates the
+[FakeSysKey](https://github.com/carsonfb/FakeSysKey) is a small C# program that imitates the
 Windows utility SysKey for use in scambaiting.  SysKey creates a system password (distinct
 from the login password) and makes a computer unusable without the password.  Scammers, at least a
 few years ago, were running SysKey on unspecting users' computers and extorting them for the
