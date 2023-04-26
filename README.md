@@ -14,6 +14,13 @@ recorded and live), writing and playing music (though I am good at neither), wat
 comedy, horror, sci-fi/fantasy, and documentaries), reading (mostly non-fiction these days), playing
 video games, puns, walking in forest preserves, and programming.
 
+I started typing programs from books and magazines into my family's Commodore VIC-20 when I was 4,
+and stared writing my own programs in Commodore BASIC when I was 8, though none of those are what
+anyone would consider a masterpiece.  I moved on to GW-BASIC, Pascal, C, and x86 Aseembly language
+over the next several years.  Because of this interest, I was occasionally being paid in pizzas to
+write small utilities for a tiny company that I knew the owner of in junior high and highschool.
+I got my first real programming while in college.
+
 Which brings me to...
 
 ## Professional
