@@ -55,7 +55,7 @@ I've also used a number of other languages non-professionally:
 * Pascal
 
 These days, in my full-time employment, I mostly use Perl, Python, SQL, CSS, JavaScript, and
-HTML with a bith of Bash here and there.
+HTML with a bit of Bash here and there.
 
 ## Programming Interests
 
