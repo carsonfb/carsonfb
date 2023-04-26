@@ -114,5 +114,5 @@ but may be of interest to someone.  Be sure to check back so you don't miss anyt
 
 ## Contact
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/carson-ball-230a0114/)
-![https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/channel/UCjqJNCS7l45jxcuv817ZJRg)
+![https://www.linkedin.com/in/carson-ball-230a0114/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.youtube.com/channel/UCjqJNCS7l45jxcuv817ZJRg](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
