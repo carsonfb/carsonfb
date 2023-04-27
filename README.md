@@ -123,3 +123,4 @@ but may be of interest to someone.  Be sure to check back so you don't miss anyt
 
 [![LinkedIn button](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carson-ball-230a0114/)
 [![YouTube button](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjqJNCS7l45jxcuv817ZJRg)
+[![GMail button](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carson@ballweb.org)
