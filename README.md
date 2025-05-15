@@ -18,15 +18,15 @@ I started typing programs from books and magazines into my family's Commodore VI
 and stared writing my own programs in Commodore BASIC when I was 8, though none of those are what
 anyone would consider a masterpiece.  I moved on to GW-BASIC, Pascal, C, and x86 Aseembly language
 over the next several years.  Because of this interest, I was occasionally being paid in pizzas to
-write small utilities for a tiny company that I knew the owner of in junior high and highschool.
-I got my first real programming job while in college.
+write small utilities for a tiny company that I knew the owner of in junior high and high school.
+I got my first "real" programming job during my senior year in college.
 
 Which brings me to...
 
 ## Professional
 
-I have been a full-time professional programmer for 25 years and, in that time, have used a number
-of languages (though some for only a short while):
+I have been a full-time professional programmer for over 25 years and, in that time, have used a
+number of languages (though some for only a short while):
 
 * Assembly Language (x86)
 * Bash (Linux, UNIX)
@@ -54,8 +54,8 @@ I've also used a number of other languages non-professionally:
 * Java
 * Pascal
 
-These days, in my full-time employment, I mostly use Perl, Python, SQL, CSS, JavaScript, and
-HTML with a bit of Bash here and there.
+These days, in my full-time employment, I mostly use Python, SQL, CSS, JavaScript, and HTML with a
+bit of Bash here and there.
 
 ## Programming Interests
 
